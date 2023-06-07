@@ -1,2 +1,2 @@
-# Basic_Python_Programs
+# Basic Python Programs
 Examples of some basic python programs
